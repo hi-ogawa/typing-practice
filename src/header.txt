@@ -1,0 +1,10 @@
+// ==UserScript==
+// @name        typing-practice
+// @namespace   Violentmonkey Scripts
+// @match       *://*/*
+// @grant       GM_registerMenuCommand
+// @grant       GM_openInTab
+// @version     1.0
+// @author      -
+// @description 15.07.2021, 22:09:13
+// ==/UserScript==
