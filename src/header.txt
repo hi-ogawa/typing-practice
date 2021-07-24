@@ -2,7 +2,6 @@
 // @name        typing-practice
 // @namespace   Violentmonkey Scripts
 // @match       *://*/*
-// @grant       GM_registerMenuCommand
 // @grant       GM_openInTab
 // @version     1.0
 // @author      -

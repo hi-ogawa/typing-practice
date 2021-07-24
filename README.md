@@ -1,11 +1,14 @@
 # typing-practice
 
-Open [10fastfingers.com](https://10fastfingers.com) with the selected text on hotkey "Alt-T".
+Userscript to open [10fastfingers.com](https://10fastfingers.com) with the selected text on hotkey "Alt-T".
 
 ```
 # Development
 npm install
 npm run build:watch # Create build/typing-practice.user.js
+
+# Deploy
+npm run deploy
 ```
 
 References
